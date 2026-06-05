@@ -1,0 +1,8 @@
+QWEN2.5-1.5B STEP-SCAN PPL REPORT (WIKITEXT-2)
+==================================================
+N=0: PPL=9.1574, Relative Error=0.00%
+N=1: PPL=9.4336, Relative Error=3.01%
+N=2: PPL=9.7868, Relative Error=6.87%
+N=3: PPL=10.2026, Relative Error=11.41%
+N=4: PPL=10.9737, Relative Error=19.83%
+N=5: PPL=11.6729, Relative Error=27.46%

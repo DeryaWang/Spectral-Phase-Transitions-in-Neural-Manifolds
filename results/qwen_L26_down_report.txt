@@ -1,0 +1,20 @@
+QWEN2.5-1.5B L26_down STUDY
+RMT R_eff: 144.07, Spikes: 145
+M=0.1, Loss=5.5266, Trace=71.7084
+M=0.3, Loss=5.6147, Trace=-230.1526
+M=0.5, Loss=5.5391, Trace=-12.9570
+M=0.7, Loss=5.4879, Trace=-322.7932
+M=0.9, Loss=5.5291, Trace=-211.7938
+M=1.1, Loss=5.4910, Trace=-145.1061
+M=1.3, Loss=5.5574, Trace=-82.2129
+M=1.5, Loss=5.5774, Trace=-401.3406
+M=1.7, Loss=5.6135, Trace=-198.8097
+M=1.9, Loss=5.6441, Trace=-148.3606
+M=3.0, Loss=5.5238, Trace=79.9670
+M=4.0, Loss=5.5275, Trace=-13.6301
+M=5.0, Loss=5.4050, Trace=-21.4382
+M=6.0, Loss=5.3490, Trace=1673.9847
+M=7.0, Loss=5.1547, Trace=3023.8275
+M=8.0, Loss=5.0477, Trace=4456.3912
+M=9.0, Loss=4.9982, Trace=3144.4371
+M=10.0, Loss=4.6153, Trace=8065.9168

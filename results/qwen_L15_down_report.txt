@@ -1,0 +1,20 @@
+QWEN2.5-1.5B L15_down STUDY
+RMT R_eff: 179.65, Spikes: 199
+M=0.1, Loss=4.3169, Trace=30.6510
+M=0.3, Loss=4.3589, Trace=40.0458
+M=0.5, Loss=4.3618, Trace=50.3364
+M=0.7, Loss=4.3685, Trace=53.4344
+M=0.9, Loss=4.3658, Trace=26.3642
+M=1.1, Loss=4.3486, Trace=35.2679
+M=1.3, Loss=4.3468, Trace=35.5467
+M=1.5, Loss=4.3648, Trace=33.4391
+M=1.7, Loss=4.3695, Trace=49.3107
+M=1.9, Loss=4.3559, Trace=27.8855
+M=3.0, Loss=4.3614, Trace=8.9418
+M=4.0, Loss=4.3673, Trace=27.8555
+M=5.0, Loss=4.3786, Trace=24.7699
+M=6.0, Loss=4.3687, Trace=14.6957
+M=7.0, Loss=4.3971, Trace=7.7702
+M=8.0, Loss=4.3965, Trace=8.1441
+M=9.0, Loss=4.4032, Trace=-5.4500
+M=10.0, Loss=4.4032, Trace=10.3024
