@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+
+# Large weights and data
+*.pth
+*.pt
+*.safetensors
+*.bin
+*.npy
+*.npz
+
+# Mac
+.DS_Store
